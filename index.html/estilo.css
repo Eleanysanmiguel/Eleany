@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    background-color:#020D30;
+}
+.HABILIDADES{
+    margin-top: 15%;
+}
+
+
+.perfil{
+    margin-top: 15%;
+}    
+
+.yop{
+    color: #90CDF5;
+}    
+
+.ely{
+    color:#90CDF5;
+}
+
+.especialidad{
+    color: #67CCA2;
+}
+
+
+
+
+.fotos{
+    margin-left: 10%;
+    display: flex;
+	justify-content:space-around;
+	align-items: center;
+}
+
+.yo{
+    color: beige;
+}    
+
+.todas{
+    position: relative;
+    right: -30%;
+    
+}    
+
+.todas1{
+    position: relative;
+    right: -37%;
+    
+}    
+
+.todas2{
+    position: relative;
+    right: -35%;
+    
+}    
+
+.fotos2{
+    margin-left: 15%;
+    display: flex;
+	justify-content:space-around;
+	align-items: center;
+}
+
+.fotos2{
+    margin-top: 7%;
+}    
+
+.cuatro{
+    margin-top: 7%;
+}    
+
+.cuatro1{
+    margin-top: 25%;
+}    
+
+.cuatro3{
+    margin-top: 1%;
+}    
+
+.cuatro{
+    margin-top: 1%;
+}    
+
+.redesociales1{
+    margin-left: 1%;
+    display: flex;
+	justify-content:right;
+    align-items: center;
+}
+
+.redesociales2{
+    margin-left: 1%;
+    display: flex;
+	justify-content:right;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.letra{
+    margin-bottom: 5%;
+    right: 20%;
+}    
